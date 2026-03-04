@@ -1,0 +1,5 @@
+notas = [8, 7, 9, 10]
+total = 0
+for nota in notas:
+  total = total + nota
+(print(total))
